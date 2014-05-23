@@ -47,9 +47,7 @@ class dtd
 			$sx = troca($sx,'[body]',$this->dtd_body());
 			$sx = troca($sx,'[back]',$this->dtd_back());
 			
-			$sx = troca($sx,'[count]',$this->dtd_counts());
-			
-			$sx = utf8_encode($sx);
+			//$sx = utf8_encode($sx);
 			return($sx);
 		}
 		
@@ -101,10 +99,10 @@ class dtd
 	function dtd_article_meta()
 		{
 			/* DOI */
-			$sx = '';
+			$sx = '<article-meta>';
 			if (strlen($this->doi) > 0)
 				{
-					$sx = '<article-id pub-id-type="doi">'.$this->doi.'</article-id>'.chr(13).chr(10);
+					$sx .= '<article-id pub-id-type="doi">'.$this->doi.'</article-id>'.chr(13).chr(10);
 				}
 
 			$sx .= '
@@ -126,6 +124,8 @@ class dtd
 			$sx .= $this->dtd_pub_date();
 			$sx .= $this->dtd_license();
 			$sx .= $this->dtd_abstract();
+			$sx .= $this->dtd_counts();
+			$sx .= '</article-meta>';
 			return($sx);
 		}
 		
@@ -283,7 +283,6 @@ class dtd
 			$sx = troca($sx,'[article_meta]',$this->dtd_article_meta());
 			//$sx = troca($sx,'[article_meta]',$this->dtd_article());
 			
-			$sx .= '[count]';
 			return($sx);
 		}
 
@@ -307,32 +306,18 @@ class dtd
 			';
 			return($sx);
 		}
-	function dtd_header()
-		{
-			$cr = chr(13).chr(10);
-			$sx = '<?xml version="1.0" encoding="utf-8"?>'.$cr;
-			$sx .= '<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">'.$cr;
-			return($sx);
-		}
 	
 	function dtd_article()
 		{
 			$sx = '';
 			$sx .= '<?xml version="1.0" encoding="utf-8"?>'.chr(13).chr(10);
-			$sx .= '<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">'.chr(13).chr(10);
+			$sx .= '<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">'.chr(13).chr(10);
 			
-			$sx .= '
-			<article
-  				xmlns:xlink="http://www.w3.org/1999/xlink"
-  				xmlns:mml="http://www.w3.org/1998/Math/MathML"
-  				dtd-version="1.0"
-  				article-type="research-article"
-  				xml:lang="'.$this->idioma.'">
+			$sx .= '<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="3.0" article-type="research-article" xml:lang="en">
   			[front]
   			[body]
   			[back]
-  			</article>
-  			';			
+  			</article>'.chr(13).chr(10);			
 			return($sx);
 		}
 	
