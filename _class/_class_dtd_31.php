@@ -4,7 +4,7 @@ class dtd
 	var $journal_name = 'Revista Fisioterapia e Movimento';
 	var $journal_name_abrev = 'Rev. Fisio. Mov.';
 	var $issn = '1950-9089';
-	var $issn_e = '';
+	var $issn_e = '1980-5918';
 	var $publisher = 'Pontifícia Universidade Católica do Paraná';
 	
 	var $title = 'Titulo';
@@ -49,6 +49,15 @@ class dtd
 			
 			//$sx = utf8_encode($sx);
 			return($sx);
+		}
+		
+	function set_journals($line)
+		{
+			$this->journal_name = $line['jn_title'];
+			$this->journal_name_abrev = $line['title'];
+			$this->issn = $line['journal_issn'];
+			$this->issn_e = $line['jn_eissn'];
+			$this->publisher = $line['jnl_editor'];
 		}
 		
 	function dtd_autores()
