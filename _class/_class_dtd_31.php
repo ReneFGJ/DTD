@@ -37,9 +37,13 @@ class dtd31
 	var $count_ref = 0;
 	var $count_fig = 0;
 	var $count_equation = 0;
+<<<<<<< HEAD
 	var $count_page = 0;	
 	
 	var $dtd_back = '';	
+=======
+	var $count_page = 0;		
+>>>>>>> 954cb7ff989d77e986f88039d34946ac9948fd5b
 	
 	var $doi = '10.1590/1950-9089-v27n1a01';
 	
@@ -77,6 +81,7 @@ class dtd31
 			return($sx);
 		}
 		
+<<<<<<< HEAD
 	function set_refs($rf)
 		{
 			$sx = '';
@@ -100,6 +105,8 @@ class dtd31
 			$this->dtd_back = '<back>'.$sx.'</back>';
 			
 		}
+=======
+>>>>>>> 954cb7ff989d77e986f88039d34946ac9948fd5b
 	function set_article($line)
 		{
 			$titulo = trim($line['article_title']); $subtitulo = '';
