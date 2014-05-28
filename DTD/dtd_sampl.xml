@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="3.0" article-type="research-article" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Rev Cient Tecnol Bras</journal-id>
+			<journal-title-group>
+				<journal-title>Revista Científica e Tecnológica Brasileira</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Rev. Cient. Tecnol. Bras.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">1234-5678</issn>
+			<issn pub-type="epub">9123-4567</issn>
+			<publisher>
+				<publisher-name>Instituto Brasileiro de Tecnologias e Pesquisas - IBTP, Colégio Brasileiro de Ciências Tecnológicas - CBCT , Sociedade Brasileira do Estudo Científico - SBEC , Federação Brasileira de Ciência e Tecnologia da Informação - FBCTI</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">S0004-28032011000300008</article-id>
+			<article-id pub-id-type="doi">10.1590/S0004-28032011000300008</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Original Article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">History of Brazilian science</article-title>
+				<trans-title-group xml:lang="pt">
+					<trans-title>História da ciência brasileira</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Souza</surname>
+						<given-names>André</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Leão</surname>
+						<given-names>Daniel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+					<xref ref-type="aff" rid="aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Santos</surname>
+						<given-names>Edgard</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Foster</surname>
+						<given-names>Ricardo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rosário</surname>
+						<given-names>Luísa</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+					<xref ref-type="aff" rid="aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fernandes</surname>
+						<given-names>Marivalde</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2">2</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type='orgdiv2'>Departamento de Vertebrados</institution>
+				<institution content-type='orgname'>Universidade de São Paulo</institution>
+				<addr-line>
+					<named-content content-type='city'>São Paulo</named-content>
+					<named-content content-type='state'>SP</named-content>
+				</addr-line>
+				<country>Brasil</country>
+				<institution content-type="original">Professor da Universidade de São Paulo,Departamento de Vertebrados. São Paulo - SP, Brasil. <named-content content-type="email">pesquisador@gmail.com</named-content>
+				</institution>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="orgdiv3">Pós-graduação em Ciências e Tecnologia</institution>
+				<institution content-type="orgdiv2">Departamento de Ciências</institution>
+				<institution content-type="orgdiv1">Faculdade de Ciências</institution>
+				<institution content-type="orgname">Universidade de Campinas</institution>
+				<named-content content-type="zipcode">05521-778</named-content>, 
+				
+				<named-content content-type="city">São Paulo</named-content>, 
+				
+				<named-content content-type="state">SP</named-content>
+				<addr-line>Caixa Postal 57.852</addr-line>
+				<country>Brasil</country>
+				<institution content-type="original">Professor de Pós-graduação em Ciências e Tecnologia; Departamento de Ciências; Faculdade de Ciências - Universidade de Campinas - São Paulo, SP - Brasil - Caixa Postal 57.852. email:<named-content content-type="email">marivalde@gmail.com</named-content>
+				</institution>
+			</aff>
+			<author-notes>
+				<corresp>
+					<bold>Correspondence</bold>: Dr. Foster Ricardo Departamento de Ciências, Universidade de São Paulo - São Paulo,  Brasil. E-mail: <email>fosterricardo@gmail.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub-ppub">
+				<season>Jul-Sep</season>
+				<year>2011</year>
+			</pub-date>
+			<volume>48</volume>
+			<issue>3</issue>
+			<fpage>190</fpage>
+			<lpage>194</lpage>
+			<history>
+				<date date-type="received">
+					<day>27</day>
+					<month>06</month>
+					<year>2011</year>
+				</date>
+				<date date-type="accepted">
+					<day>15</day>
+					<month>07</month>
+					<year>2011</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+					<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+				</license>
+			</permissions>
+			<abstract xml:lang="en">
+				<sec>
+					<title>CONTEXT:</title>
+					<p>text text text text text text text text text text text text text text text text text text text text text text text text </p>
+				</sec>
+				<sec>
+					<title>OBJECTIVE:</title>
+					<p>text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text </p>
+				</sec>
+				<sec>
+					<title>METHODS:</title>
+					<p> text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text   </p>
+				</sec>
+				<sec>
+					<title>RESULTS:</title>
+					<p> text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text   </p>
+				</sec>
+				<sec>
+					<title>CONCLUSIONS:</title>
+					<p> text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text   </p>
+				</sec>
+			</abstract>
+			<trans-abstract xml:lang="pt">
+				<sec>
+					<title>CONTEXTO:</title>
+					<p> text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text </p>
+				</sec>
+				<sec>
+					<title>OBJETIVO:</title>
+					<p> text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text </p>
+				</sec>
+				<sec>
+					<title>MÉTODOS:</title>
+					<p> text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text </p>
+				</sec>
+				<sec>
+					<title>RESULTADOS:</title>
+					<p> text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text </p>
+				</sec>
+				<sec>
+					<title>CONCLUSÕES:</title>
+					<p> text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text</p>
+				</sec>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<kwd>text</kwd>
+				<kwd>text</kwd>
+				<kwd>text</kwd>
+				<kwd>text</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="pt">
+				<kwd>text</kwd>
+				<kwd>text</kwd>
+				<kwd>text</kwd>
+				<kwd>text</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group>
+					<funding-source>FAPESP</funding-source>
+					<award-id>#12345678-9</award-id>
+				</award-group>
+			</funding-group>
+			<counts>
+				<fig-count count="1"/>
+				<table-count count="1"/>
+				<ref-count count="20"/>
+				<page-count count="5"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>INTRODUCTION</title>
+			<p>text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text <sup>(<xref ref-type="bibr" rid="r03">3</xref>)</sup>. </p>
+			<p>text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  </p>
+		</sec>
+		<sec sec-type="methods">
+			<title>METHODS</title>
+			<sec>
+				<title>text</title>
+				<p>text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  </p>
+				<p>text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  </p>
+			</sec>
+			<sec>
+				<title>text</title>
+				<p>text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  </p>
+			</sec>
+			<sec>
+				<title>text</title>
+				<p>text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text  <sup>(<xref ref-type="bibr" rid="r09">9</xref>)</sup>. text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text </p>
+			</sec>
+			<sec>
+				<title>text</title>
+				<p>text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text <sup>(<xref ref-type="bibr" rid="r08">8</xref>)</sup>.  text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text tex </p>
+			</sec>
+			<sec>
+				<title>text</title>
+				<p> text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text </p>
+			</sec>
+			<sec>
+				<title>text</title>
+				<p> text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text </p>
+			</sec>
+		</sec>
+		<sec sec-type="results">
+			<title>RESULTS</title>
+			<p> text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text </p>
+			<p> text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text (<xref ref-type="table" rid="t01">Table 1</xref>).  text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text</p>
+			<p>
+				<table-wrap id="t01">
+					<label>TABLE 1</label>
+					<caption>
+						<title>Brazilian science</title>
+					</caption>
+					<graphic xlink:href="1234-5678-rctb-45-05-690-gt01"/>
+					<table frame="hsides" rules="groups">
+						<colgroup width="25%">
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead style="border-top: thin solid; border-bottom: thin solid; border-color: #000000">
+							<tr>
+								<th align="left">Diagnostic test
+        HpAI</th>
+								<th>Histopathological evaluation<xref ref-type="table-fn" rid="TFN01t01">*</xref>
+								</th>
+								<th>Urease
+        test</th>
+								<th>Microbiological culture</th>
+							</tr>
+						</thead>
+						<tbody style="border-bottom: thin solid; border-color: #000000">
+							<tr>
+								<td>Present</td>
+								<td align="center">67 (87%)</td>
+								<td align="center">61 (79%)</td>
+								<td align="center">54 (70%)</td>
+							</tr>
+							<tr>
+								<td>Absent</td>
+								<td align="center">10 (13%)</td>
+								<td align="center">16 (21%)</td>
+								<td align="center">23 (30%)</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn id="TFN01t01">
+							<label>*</label>
+							<p>History of science</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p> text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text (<xref ref-type="fig" rid="f01">Figure 1</xref>).  text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text</p>
+			<p>
+				<fig id="f01">
+					<label>FIGURE 1</label>
+					<caption>
+						<title>Science</title>
+					</caption>
+					<graphic xlink:href="1234-5678-rctb-45-05-690-gf01"/>
+				</fig>
+			</p>
+			<p> text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text</p>
+		</sec>
+		<sec sec-type="discussion">
+			<title>DISCUSSION</title>
+			<p> text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text<sup>(<xref ref-type="bibr" rid="r01">1</xref>, <xref ref-type="bibr" rid="r02">2</xref>, <xref ref-type="bibr" rid="r05">5</xref>, <xref ref-type="bibr" rid="r07">7</xref>, <xref ref-type="bibr" rid="r11">11</xref>, <xref ref-type="bibr" rid="r17">17</xref>, <xref ref-type="bibr" rid="r19">19</xref>, <xref ref-type="bibr" rid="r20">20</xref>)</sup>,  text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text <sup>(<xref ref-type="bibr" rid="r01">1</xref>, <xref ref-type="bibr" rid="r19">19</xref>)</sup>. text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text<sup>(<xref ref-type="bibr" rid="r06">6</xref>, <xref ref-type="bibr" rid="r13">13</xref>)</sup>, text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text<sup>(<xref ref-type="bibr" rid="r01">1</xref>)</sup>. text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text</p>
+			<p>text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text<sup>(<xref ref-type="bibr" rid="r12">12</xref>)</sup>, text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text<sup>(<xref ref-type="bibr" rid="r02">2</xref>, <xref ref-type="bibr" rid="r04">4</xref>, <xref ref-type="bibr" rid="r05">5</xref>, <xref ref-type="bibr" rid="r11">11</xref>, <xref ref-type="bibr" rid="r14">14</xref>)</sup>. text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text<sup>(<xref ref-type="bibr" rid="r05">5</xref>, <xref ref-type="bibr" rid="r15">15</xref>)</sup>.</p>
+			<p>text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text<sup>(<xref ref-type="bibr" rid="r16">16</xref>)</sup>. text text  text text <sup>(<xref ref-type="bibr" rid="r16">16</xref>)</sup>. Ribeiro et al.<sup>(<xref ref-type="bibr" rid="r16">16</xref>)</sup> text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text</p>
+			<p>text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text </p>
+			<p>text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text texttext text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text  text text text text text text text text text text text text text text text text</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<sec>
+				<title>ACKNOWLEDGMENTS</title>
+				<p>Research supported by FAPESP (#12345678-9)</p>
+			</sec>
+		</ack>
+		<ref-list>
+			<title>REFERENCES</title>
+			<ref id="r01">
+				<label>1</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aydin</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Egilmez</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Karabacak</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Kanik</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Interobserver variation in histopathological assessment of Helicobacter pylori gastritis</article-title>
+					<source xml:lang="en">World J Gastroenterol</source>
+					<year>2003</year>
+					<volume>9</volume>
+					<fpage>2232</fpage>
+					<lpage>2235</lpage>
+				</element-citation>
+				<mixed-citation>1.  Aydin O, Egilmez R, Karabacak T, Kanik A.  Interobserver variation in histopathological assessment of Helicobacter pylori gastritis.  World J Gastroenterol. 2003;9:2232-5. </mixed-citation>
+			</ref>
+			<ref id="r02">
+				<label>2</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barmejo</surname>
+							<given-names>San José F</given-names>
+						</name>
+						<name>
+							<surname>Boixeda </surname>
+							<given-names>de Miguel D</given-names>
+						</name>
+						<name>
+							<surname>Gisbert </surname>
+							<given-names>JP</given-names>
+						</name>
+						<name>
+							<surname>Martin </surname>
+							<given-names>de Argila de Prados C</given-names>
+						</name>
+						<name>
+							<surname>Sanz </surname>
+							<given-names>Sacristán JM</given-names>
+						</name>
+						<name>
+							<surname>Defarges Pons </surname>
+							<given-names>V</given-names>
+						</name>
+						<name>
+							<surname>Moreno </surname>
+							<given-names>Almazán L</given-names>
+						</name>
+						<name>
+							<surname>García </surname>
+							<given-names>Plaza A</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Efficacy of four widely used techniques of the diagnosis of Helicobacter pylori infection in gastric ulcer disease</article-title>
+					<source xml:lang="en">Rev Clin Esp</source>
+					<year>2000</year>
+					<volume>200</volume>
+					<fpage>475</fpage>
+					<lpage>479</lpage>
+				</element-citation>
+				<mixed-citation>2.  Barmejo San José F, Boixeda de Miguel D, Gisbert JP, Martin de Argila de Prados C, Sanz Sacristán JM, Defarges Pons V, Moreno Almazán L, García Plaza A.  Efficacy of four widely used techniques of the diagnosis of Helicobacter pylori infection in gastric ulcer disease.  Rev Clin Esp. 2000;200:475-9. </mixed-citation>
+			</ref>
+			<ref id="r03">
+				<label>3</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Burette </surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">How (who?) and when to test or retest for H. Pylori
+					</article-title>
+					<source xml:lang="en">Acta Gastroenterol Belg</source>
+					<year>1998</year>
+					<volume>61</volume>
+					<fpage>336</fpage>
+					<lpage>343</lpage>
+				</element-citation>
+				<mixed-citation>3.  Burette A.  How (who?) and when to test or retest for H. Pylori.  Acta Gastroenterol Belg. 1998;61:336-43.</mixed-citation>
+			</ref>
+			<ref id="r04">
+				<label>4</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Caetano </surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Felix </surname>
+							<given-names>VN</given-names>
+						</name>
+						<name>
+							<surname>Coimbra </surname>
+							<given-names>FT</given-names>
+						</name>
+						<name>
+							<surname>Ganc </surname>
+							<given-names>AJ</given-names>
+						</name>
+					</person-group>
+					<trans-title xml:lang="en">Helicobacter pylori and peptic disease: comparative study of the diagnostic methods</trans-title>
+					<source xml:lang="en">Arq Gastroenterol.</source>
+					<year>2008</year>
+					<volume>45</volume>
+					<fpage>255</fpage>
+					<lpage>257</lpage>
+				</element-citation>
+				<mixed-citation>4.  Caetano A, Felix VN, Coimbra FT, Ganc AJ.  [Helicobacter pylori and peptic disease: comparative study of the diagnostic methods].  Arq Gastroenterol. 2008;45:255-7. </mixed-citation>
+			</ref>
+			<ref id="r05">
+				<label>5</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castro-Fernández </surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Sánchez-Muñoz </surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>García-Díaz </surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Miralles-Sanchiz </surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Vargas-Romero </surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="es">Diagnóstico mediante endoscopia de la infección por Helicobacter pylori en pacientes con úlcera gastroduodenal y hemorragia digestiva: test rápido de ureasa e histología</article-title>
+					<source xml:lang="en">Rev Esp Enferm Dig</source>
+					<year>2004</year>
+					<volume>96</volume>
+					<fpage>395</fpage>
+					<lpage>401</lpage>
+				</element-citation>
+				<mixed-citation>5.  Castro-Fernández M, Sánchez-Muñoz D, García-Díaz E, Miralles-Sanchiz J, Vargas-Romero J.  Diagnóstico mediante endoscopia de la infección por Helicobacter pylori en pacientes con úlcera gastroduodenal y hemorragia digestiva: test rápido de ureasa e histología.  Rev Esp Enferm Dig. 2004:96:395-401.</mixed-citation>
+			</ref>
+			<ref id="r06">
+				<label>6</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Korwin</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<trans-title xml:lang="en">Avantages and limitations of diagnostic methods for H. Pylori infection</trans-title>
+					<source xml:lang="en">Gastroenterol Clin Biol.</source>
+					<year>2003</year>
+					<volume>27</volume>
+					<fpage>380</fpage>
+					<lpage>390</lpage>
+				</element-citation>
+				<mixed-citation>6.  De Korwin J.  [Avantages and limitations of diagnostic methods for H. Pylori infection].  Gastroenterol Clin Biol. 2003;27:380-90.</mixed-citation>
+			</ref>
+			<ref id="r07">
+				<label>7</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fallone</surname>
+							<given-names>CA</given-names>
+						</name>
+						<name>
+							<surname>Loo</surname>
+							<given-names>VG</given-names>
+						</name>
+						<name>
+							<surname>Lough</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Barkun</surname>
+							<given-names>AN</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Hematoxylin and eosin staining of gastric tissue for the detection of Helicobacter pylori
+					</article-title>
+					<source xml:lang="en">Helicobacter</source>
+					<year>1997</year>
+					<volume>2</volume>
+					<fpage>32</fpage>
+					<lpage>35</lpage>
+				</element-citation>
+				<mixed-citation>7.  Fallone CA, Loo VG, Lough J, Barkun AN.  Hematoxylin and eosin staining of gastric tissue for the detection of Helicobacter pylori.  Helicobacter. 1997;2:32-5.</mixed-citation>
+			</ref>
+			<ref id="r08">
+				<label>8</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fuenmayor </surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Cavazza </surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Beltrán</surname>
+							<given-names> de Luengo H</given-names>
+						</name>
+						<name>
+							<surname>Gallegos </surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Inciarte </surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Botero </surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Avila </surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="es">Infección por Helicobacter pylori en pacientes con patología gastrointestinal benigna</article-title>
+					<source xml:lang="en">Rev Soc Venez Microbiol</source>
+					<year>2002</year>
+					<volume>22</volume>
+					<fpage>27</fpage>
+					<lpage>31</lpage>
+				</element-citation>
+				<mixed-citation>8.  Fuenmayor A, Cavazza M, Beltrán de Luengo H, Gallegos B, Inciarte A, Botero L, Avila M.  Infección por Helicobacter pylori en pacientes con patología gastrointestinal benigna.  Rev Soc Venez Microbiol. 2002;22:27-31. </mixed-citation>
+			</ref>
+			<ref id="r09">
+				<label>9</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fuenmayor</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Hernández</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Paz</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Cavazza</surname>
+							<given-names>ME</given-names>
+						</name>
+						<name>
+							<surname>Lizarzábal</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="es">Nuevas evidencias sobre la utilidad diagnóstica de una fórmula no comercial para la detección de la actividad de ureasa de Helicobacter pylori en biopsias gástricas</article-title>
+					<source xml:lang="en">Kasmera</source>
+					<year>2006</year>
+					<volume>34</volume>
+					<fpage>40</fpage>
+					<lpage>52</lpage>
+				</element-citation>
+				<mixed-citation>9.  Fuenmayor A, Hernández I, Paz A, Cavazza ME, Lizarzábal M.  Nuevas evidencias sobre la utilidad diagnóstica de una fórmula no comercial para la detección de la actividad de ureasa de Helicobacter pylori en biopsias gástricas.  Kasmera. 2006;34:40-52.   </mixed-citation>
+			</ref>
+			<ref id="r10">
+				<label>10</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Keeffe</surname>
+							<given-names>EB</given-names>
+						</name>
+						<name>
+							<surname>O'Connor KW</surname>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">1989 A/S/G/E survey of endoscopic sedation and monitoring practices</article-title>
+					<source xml:lang="en">Gastrointest Endosc</source>
+					<year>1990</year>
+					<volume>36</volume>
+					<fpage>s13</fpage>
+					<lpage>s18</lpage>
+				</element-citation>
+				<mixed-citation>10.  Keeffe EB, O'Connor KW.  1989 A/S/G/E survey of endoscopic sedation and monitoring practices.  Gastrointest Endosc. 1990;36:s13-8. </mixed-citation>
+			</ref>
+			<ref id="r11">
+				<label>11</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kullavanijaya </surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Thong-Ngam </surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Hanvivatvong </surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Nunthapisud </surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Tangkijvanich </surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Suwanagool </surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Analysis of eigth different methods for the detection of Helicobacter pylori infection in patients with dyspepsia</article-title>
+					<source xml:lang="en">J Gastroenterol Hepatol</source>
+					<year>2004</year>
+					<volume>19</volume>
+					<fpage>1392</fpage>
+					<lpage>1396</lpage>
+				</element-citation>
+				<mixed-citation>11.  Kullavanijaya P, Thong-Ngam D, Hanvivatvong O, Nunthapisud P, Tangkijvanich P, Suwanagool P.  Analysis of eigth different methods for the detection of Helicobacter pylori infection in patients with dyspepsia.  J Gastroenterol Hepatol. 2004:19:1392-6.   </mixed-citation>
+			</ref>
+			<ref id="r12">
+				<label>12</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>MaConi</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Vago</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Galletta</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Imbesi</surname>
+							<given-names>V</given-names>
+						</name>
+						<name>
+							<surname>Sangaletti</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Parente</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Cucino</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Bonetto</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Bianchi Porro</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Is routine histological evaluation an accurate test for Helicobacter pylori infection?</article-title>
+					<source xml:lang="en">Aliment Pharmacol Ther</source>
+					<year>1999</year>
+					<volume>13</volume>
+					<fpage>327</fpage>
+					<lpage>331</lpage>
+				</element-citation>
+				<mixed-citation>12.  MaConi G, Vago L, Galletta G, Imbesi V, Sangaletti O, Parente F, Cucino C, Bonetto S, Bianchi Porro G.  Is routine histological evaluation an accurate test for Helicobacter pylori infection?  Aliment Pharmacol Ther. 1999;13: 327-31.    </mixed-citation>
+			</ref>
+			<ref id="r13">
+				<label>13</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Monés </surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Gisbert </surname>
+							<given-names>JP</given-names>
+						</name>
+						<name>
+							<surname>Borda </surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Domínguez-Muñoz</surname>
+							<given-names>E</given-names>
+						</name>
+						<collab>Grupo Conferencia Española de Consenso sobre Helicobacter pylori</collab>
+					</person-group>
+					<article-title xml:lang="en">Indications, diagnostic test and 
+							<italic>Helicobacter</italic>
+						<italic>pylori</italic>
+						 erradication therapy. Recommendations by the 2nd Spanish Consensus Conference [online]</article-title>
+					<source xml:lang="en">Rev Esp Enferm Dig</source>
+					<year>2005</year>
+					<volume>97</volume>
+					<fpage>348</fpage>
+					<lpage>374</lpage>
+				</element-citation>
+				<mixed-citation>13.  Monés J, Gisbert JP, Borda F, Domínguez-Muñoz E; Grupo Conferencia Española de Consenso sobre Helicobacter pylori.  Indications, diagnostic test and Helicobacter pylori erradication therapy. Recommendations by the 2nd Spanish Consensus Conference [online].  Rev Esp Enferm Dig. 2005;97: 348-74. </mixed-citation>
+			</ref>
+			<ref id="r14">
+				<label>14</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Muñoz</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Corcuera</surname>
+							<given-names>MT</given-names>
+						</name>
+						<name>
+							<surname>Roldán</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Gómez</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Picazo</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Baquero</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Alonso</surname>
+							<given-names>MJ</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Comparative study of microbiological and histopathological techniques used for the detection of Helicobacter pylori
+					</article-title>
+					<source xml:lang="en">Eur J Histochem</source>
+					<year>1998</year>
+					<volume>42</volume>
+					<fpage>297</fpage>
+					<lpage>302</lpage>
+				</element-citation>
+				<mixed-citation>14.  Muñoz E, Corcuera MT, Roldán M, Gómez F, Picazo A, Baquero M, Alonso MJ.  Comparative study of microbiological and histopathological techniques used for the detection of Helicobacter pylori. Eur J Histochem. 1998;42:297-302.</mixed-citation>
+			</ref>
+			<ref id="r15">
+				<label>15</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Onders</surname>
+							<given-names>RP</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Detection methods of Helicobacter pylori: accuracy and costs</article-title>
+					<source xml:lang="en">Am Surg</source>
+					<year>1997</year>
+					<volume>63</volume>
+					<fpage>665</fpage>
+					<lpage>668</lpage>
+				</element-citation>
+				<mixed-citation>15.  Onders RP.  Detection methods of Helicobacter pylori: accuracy and costs.  Am Surg. 1997;63:665-8. </mixed-citation>
+			</ref>
+			<ref id="r16">
+				<label>16</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ribeiro</surname>
+							<given-names>ML</given-names>
+						</name>
+						<name>
+							<surname>Godoy</surname>
+							<given-names>AP</given-names>
+						</name>
+						<name>
+							<surname>Benvengo</surname>
+							<given-names>YH</given-names>
+						</name>
+						<name>
+							<surname>Ecclissato</surname>
+							<given-names>CC</given-names>
+						</name>
+						<name>
+							<surname>Mendonça</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Pedrazzoli</surname>
+							<given-names>J</given-names>
+							<suffix>Jr</suffix>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">The influence of endoscopic procedures upon the contamination Helicobacter pylori cultures</article-title>
+					<source xml:lang="en">Arq Gastroenterol</source>
+					<year>2004</year>
+					<volume>41</volume>
+					<fpage>100</fpage>
+					<lpage>103</lpage>
+				</element-citation>
+				<mixed-citation>16.  Ribeiro ML, Godoy AP, Benvengo YH, Ecclissato CC, Mendonça S, Pedrazzoli J Jr.  The influence of endoscopic procedures upon the contamination Helicobacter pylori cultures.  Arq Gastroenterol. 2004;41:100-3.</mixed-citation>
+			</ref>
+			<ref id="r17">
+				<label>17</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rotimi</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Cairns</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Gray</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Moayyedi</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Dixon</surname>
+							<given-names>MF</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Histological identification of Helicobacter pylori: comparison of staining methods</article-title>
+					<source xml:lang="en">J Clin Pathol</source>
+					<year>2000</year>
+					<volume>53</volume>
+					<fpage>756</fpage>
+					<lpage>759</lpage>
+				</element-citation>
+				<mixed-citation>17.  Rotimi O, Cairns A, Gray S, Moayyedi P, Dixon MF.  Histological identification of Helicobacter pylori: comparison of staining methods.  J Clin Pathol. 2000;53:756-9. </mixed-citation>
+			</ref>
+			<ref id="r18">
+				<label>18</label>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Waye</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Geenen</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Fleischer</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Techniques in therapeutic endoscopy</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Gower Medical Publishing</publisher-name>
+					<year>1987</year>
+				</element-citation>
+				<mixed-citation>18.  Waye J, Geenen J, Fleischer D, editores.  Techniques in therapeutic endoscopy.  New York: Gower Medical Publishing; 1987.</mixed-citation>
+			</ref>
+			<ref id="r19">
+				<label>19</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wright</surname>
+							<given-names>CL</given-names>
+						</name>
+						<name>
+							<surname>Kelly</surname>
+							<given-names>JK</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">The use of routine special stains for upper gastrointestinal biopsies</article-title>
+					<source xml:lang="en">Am J Surg Pathol</source>
+					<year>2006</year>
+					<volume>30</volume>
+					<fpage>357</fpage>
+					<lpage>361</lpage>
+				</element-citation>
+				<mixed-citation>19.  Wright CL, Kelly JK.  The use of routine special stains for upper gastrointestinal biopsies.  Am J Surg Pathol. 2006;30:357-61.</mixed-citation>
+			</ref>
+			<ref id="r20">
+				<label>20</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yap</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Kung</surname>
+							<given-names>JS</given-names>
+						</name>
+						<name>
+							<surname>Wee</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Tay</surname>
+							<given-names>HH</given-names>
+						</name>
+						<name>
+							<surname>Guan</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Ho</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Kang</surname>
+							<given-names>JY</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Comparison of culture and histology for the identification of Helicobacter pylori in endoscopic biopsies</article-title>
+					<source xml:lang="en">Ann Acad Med Singapore</source>
+					<year>1990</year>
+					<volume>19</volume>
+					<fpage>354</fpage>
+					<lpage>356</lpage>
+				</element-citation>
+				<mixed-citation>20.  Yap I, Kung JS, Wee A, Tay HH, Guan R, Ho B, Kang JY.  Comparison of culture and histology for the identification of Helicobacter pylori in endoscopic biopsies.  Ann Acad Med Singapore. 1990;19:354-6.</mixed-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>
