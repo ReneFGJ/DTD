@@ -1,15 +1,28 @@
 <?php
-require("db.php");
-require('_class/_class_dtd_31.php');
-$dtd = new dtd;
+$include = '../';
+require("../db.php");
+require($include.'sisdoc_debug.php');
 
-$id = 2;
+require($include.'sisdoc_autor.php');
 
-require("../Reol2/_class/_class_works.php");
-$wk = new works;
+require_once('_class/_class_dtd_31.php');
+$dtd = new dtd31;
+
+$id = 12473;
+
+require("_class/_class_artigos.php");
+$wk = new artigos;
+
+require("_class/_class_issue.php");
+$is = new issue;
+
 $wk->le($id);
+$dtd->set_article($wk->line);
+$jid = $wk->line['journal_id'];
+$issue = $wk->line['article_issue'];
 
-$jid = 2;
+$is->le($issue);
+$dtd->set_issue($is->line);
 
 /* recupera dados da publicacao */
 require("_class/_class_journals.php");
