@@ -26,14 +26,13 @@ require("_class/_class_issue.php");
 $is = new issue;
 
 $wk->le($id);
-<<<<<<< HEAD
+
 $wk->mostra_protocolos_antigos();
 $REF = $wk->le_refs();
 
 $dtd->set_refs($REF);
 
-=======
->>>>>>> 954cb7ff989d77e986f88039d34946ac9948fd5b
+
 $dtd->set_article($wk->line);
 $jid = $wk->line['journal_id'];
 $issue = $wk->line['article_issue'];
